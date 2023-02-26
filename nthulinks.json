@@ -1,0 +1,692 @@
+[
+    [
+        {
+            "title": "<font size=2>密碼修改</font>",
+            "link": "'PC/1/1.1/PC11001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>關鍵欄位維護</font>",
+            "link": "'PC/1/1.4/PC14000.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>兩階段驗證設定</font>",
+            "link": "'OTP/OTP1001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    {
+        "title": "<font size=\"2\">COVID19<span style=\"color:red;\">快篩陽</span>或<span style=\"color:red;\">確診</span>回報</font>",
+        "link": "'OT/COVID19/index.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+    },
+    [
+        {
+            "title": "<font size=2>助理身分系統</font>",
+            "link": "'PE/3/3000/PE30000.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+        },
+        {
+            "title": "<font size=2>助理登錄系統</font>",
+            "link": "'PE/3/3000/PE30001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+        },
+        {
+            "title": "<font size=2>助理歷史系統</font>",
+            "link": "'PE/3/3000/PE30003.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+        },
+        {
+            "title": "<font size=2>計畫差勤及臨時工時登錄系統</font>",
+            "link": "'PE/1/14D/PE14D1.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2>待簽核表單</font>",
+            "link": "'SSO_LINK/oauth_eform.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+        },
+        {
+            "title": "<font size=2>約用人員契約書用印申請</font>",
+            "link": "'SSO_LINK/oauth_eform.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6&formId=5' target=_blank"
+        }
+    ],
+    [
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%B0%F2%A5%BB%B8%EA%AE%C6\",\"JH%2F4%2F4.19%2FJH4j001.php\")'>基本資料</span></font>",
+            "link": "'JH/4/4.19/JH4j001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    {
+        "title": "<font size=2>學生證領發預約及查詢</font>",
+        "link": "'JH/3/3.C/3.C.5/3.C.5.1/JH3C5101.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+    },
+    {
+        "title": "<font size=2><span onClick='ClickLink(\"%A5%D3%BD%D0%B4_%BE%C7\",\"JH%2F4%2F4.4.1%2FJH44101.php\")'>申請復學</span></font>",
+        "link": "'JH/4/4.4.1/JH44101.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+    },
+    {
+        "title": "<font size=2>保留生申請入學</font>",
+        "link": "'JH/4/4.4.2/JH44201.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+    },
+    [
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%AD%D7%BD%D2%A6P%BE%C7%ACd%B8%DF\",\"JH%2F7%2F7.2%2F7.2.16%2FJH72g001.php\")'>修課同學查詢<br>Check the participants of my selected courses</span></font>",
+            "link": "'../COURSE/JH/7/7.2/7.2.16/JH72g001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%A6%A8%C1Z%ACd%B8%DF\",\"JH%2F8%2FR%2F6.3%2FJH8R63001.php\")'>成績查詢<br>Transcript</span></font>",
+            "link": "'JH/8/R/6.3/JH8R63001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>學士班學期成績通知單</font>",
+            "link": "'JH/8/R/6.8/JH8R6801.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%A6U%B6%B5%BD%D2%B5%7B%ACd%B8%DF\",\"JH%2F6%2FJH62.htm\")'>各項課程查詢<br>Courses catalog</span></font>",
+            "link": "'JH/6/JH62.htm?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6&chk=1' target=\"main\""
+        },
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%B1%D0%AEv%BE%FA%A6%7E%B1%C2%BD%D2%B8%EA%AE%C6\",\"JH%2F7%2F7.2%2F7.2.4%2FJH724001.php\")'>教師歷年授課資料</span></font>",
+            "link": "'JH/7/7.2/7.2.4/JH724001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>全校課程等級制平均值及標準差查詢</font>",
+            "link": "'JH/8/8.4/8.4.2/JH84201.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        [
+            {
+                "title": "<font size=2><span onClick='ClickLink(\"%B9w%C4%B5%BE%C7%A5%CD%BA%FB%C5%40\",\"JH%2F8%2F8.2%2F8.2.3%2FJH82301.php\")'>預警學生維護</span></font>",
+                "link": "'JH/8/8.2/8.2.3/JH82301.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+            },
+            {
+                "title": "<font size=2><span onClick='ClickLink(\"%B9w%C4%B5%BE%C7%A5%CD%A6%5E%B3%F8%2F%ACd%B8%DF\",\"JH%2F8%2F8.2%2F8.2.7%2FJH82701.php\")'>本學期預警狀況查詢</span></font>",
+                "link": "'JH/8/8.2/8.2.7/JH82701.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+            }
+        ]
+    ],
+    [
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%BE%C7%A4%C0%B6O%ACd%B8%DF\",\"JH%2F4%2F4.16%2FJH416001.php\")'>學分費查詢<br>Inquiry for credit fee</span></font>",
+            "link": "'JH/4/4.16/JH416001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%AC%E3%A8s%A5%CD%BE%C7%A4%C0%A9%E8%A7K%A5%D3%BD%D0%B3%E6\",\"JH%2F7%2F7.5%2F7.5.3%2FJH753001.php\")'>研究生學分抵免申請單</span></font>",
+            "link": "'JH/7/7.5/7.5.3/JH753001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%BE%C7%A4h%AFZ%BE%C7%A4%C0%A9%E8%A7K%A5%D3%BD%D0\",\"JH%2F7%2F7.5%2F7.5.4%2FJH754001.php\")'>學士班學分抵免申請</span></font>",
+            "link": "'JH/7/7.5/7.5.4/JH754001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%A5%D3%BD%D0%A7K%AD%D7%AD%5E%A4%E5\",\"JH%2FD%2FD.2%2FD.2.1%2FJHD2101.php\")'>申請免修英文</span></font>",
+            "link": "'JH/D/D.2/D.2.1/JHD2101.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%AD%5E%A4%E5%B2%A6%B7%7E%AA%F9%C2e%BCf%AE%D6%A5%D3%BD%D0\",\"JH%2FD%2FD.2%2FD.2.3%2FJHD2301.php\")'>英文畢業門檻審核申請</span></font>",
+            "link": "'JH/D/D.2/D.2.3/JHD2301.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>減修英文資格申請</font>",
+            "link": "'LANG/2/LANG2001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>電子表單(eform)系統</font>",
+            "link": "'SSO_LINK/oauth_eform.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+        }
+    ],
+    [
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%C2%E0%A8t%A5%D3%BD%D0\",\"JH%2FC%2FC.2%2FJHC2001.php\")'>轉系所申請</span></font>",
+            "link": "'JH/C/C.2/JHC2001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%A4j%BE%C7%B3%A1%B2%A6%B7%7E%B8%EA%AE%E6%BCf%ACd\",\"JH%2F2%2F2.2%2F2.2.4%2FJH224001.php\")'>大學部畢業資格審查</span></font>",
+            "link": "'JH/2/2.2/2.2.4/JH224001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>外國學生華語課程修課通過情形</font>",
+            "link": "'JH/4/4.U/R/3/JH4UR301.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%AD%C9%A5%CE%B3q%AA%BE\",\"JH%2F2%2F2.5%2F2.5.2%2Fproperty_web.php\")'>借用通知</span></font>",
+            "link": "'JH/2/2.5/2.5.2/property_web.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%AD%D3%A4H%AD%C9%A5%CE%28%BA%D3%BE%C7%B4%A3%ABe%A1B%B3%D5%A4h%29\",\"JH%2F2%2F2.5%2F2.5.2%2FJH25201.php\")'>個人借用(碩學提前、博士)</span></font>",
+            "link": "'JH/2/2.5/2.5.2/JH25201.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%C3%BA%B4%DA%B3%E6\",\"JH%2F2%2F2.5%2F2.5.2%2FJH25201.php\")'>繳款單</span></font>",
+            "link": "'JH/2/2.5/2.5.2/JH25201.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6&e=Y' target=\"main\""
+        },
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%B9%CE%C5%E9%AD%C9%A5%CE%28%BA%D3%A1B%BE%C7%A4h%29\",\"JH%2F2%2F2.5%2F2.5.9%2FJH25901.php\")'>團體借用(碩、學士)</span></font>",
+            "link": "'JH/2/2.5/2.5.9/JH25901.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%B9%CE%C5%E9%AD%C9%A5%CE%B5n%B0O%AA%AC%AAp%28%AD%C9%A5%CE%A6W%A5U%29\",\"JH%2F2%2F2.3%2F2.3.E%2FJH23E001.php\")'>團體借用登記狀況(借用名冊)</span></font>",
+            "link": "'JH/2/2.3/2.3.E/JH23E001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%B2%A6%B7%7E%A5%CD%C2%F7%AE%D5%B5%7B%A7%C7%BB%A1%A9%FA\",\"JH%2F2%2F2.3%2Fclearance_procedures.php\")'>畢業生離校程序說明</span></font>",
+            "link": "'JH/2/2.3/clearance_procedures.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%A8B%C6J%A4%40\",\"JH%2F2%2F2.3%2F2.3.1%2FJH231001.php\")'>步驟一</span></font>",
+            "link": "'JH/2/2.3/2.3.1/JH231001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%A8B%C6J%A4G\",\"JH%2F2%2F2.3%2F2.3.2%2FJH232001.php\")'>步驟二</span></font>",
+            "link": "'JH/2/2.3/2.3.2/JH232001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%A8B%C6J%A4T\",\"JH%2F2%2F2.3%2F2.3.3%2FJH233001.php\")'>步驟三</span></font>",
+            "link": "'JH/2/2.3/2.3.3/JH233001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%A8B%C6J%A5%7C\",\"JH%2F2%2F2.3%2F2.3.4%2FJH234001.php\")'>步驟四</span></font>",
+            "link": "'JH/2/2.3/2.3.4/JH234001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%ACd%BE%5C%AFd%A8%A5\",\"JH%2F2%2F2.3%2F2.3.O%2FJH23O003.php\")'>查閱留言</span></font>",
+            "link": "'JH/2/2.3/2.3.O/JH23O003.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2>下載PDF</font>",
+            "link": "'JH/2/2.7/2.7.1/JH27101.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%BD%D2%B5%7B%B9w%B1%C6\",\"JH%2F7%2F7.6%2F7.6.1%2FJH761001.php\")'>課程預排<br>Tentative schedule</span></font>",
+            "link": "'../COURSE/JH/7/7.6/7.6.1/JH761001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%BA%F4%B8%F4%BF%EF%BD%D2\",\"JH%2F7%2F7.1%2F7.1.3%2FJH713001.php\")'>網路選課<br>Select courses</span></font>",
+            "link": "'../COURSE/JH/7/7.1/7.1.3/JH713001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%A5%5B%C3%B1%A5%D3%BD%D0%B3%E6\",\"JH%2F7%2F7.4%2F7.4.2%2FJH742001.php\")'>加簽申請<br>application for extra selection</span></font>",
+            "link": "'../COURSE/JH/7/7.4/7.4.2/JH742001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>eForm</font>",
+            "link": "'SSO_LINK/oauth_eform.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+        },
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%B0%B1%AD%D7%28%A4G%B0h%29%A5%D3%BD%D0%B3%E6\",\"JH%2F7%2F7.4%2F7.4.1%2FJH741001.php\")'>停修申請<br>Forms for course withdrawal</span></font>",
+            "link": "'../COURSE/JH/7/7.4/7.4.1/JH741001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%BF%EF%BD%D2%B1%A1%A7%CE%ACd%B8%DF\",\"JH%2F7%2F7.2%2F7.2.1%2FJH721001.php\")'>選課情形查詢<br>Inquiries regarding course selection results</span></font>",
+            "link": "'../COURSE/JH/7/7.2/7.2.1/JH721001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%BF%E9%A4J%BE%C9%AEv%B1K%BDX\",\"JH%2F7%2F7.1%2F7.1.12%2FJH71c001.php\")'>輸入導師密碼<br>Key in advisor's password</span></font>",
+            "link": "'../COURSE/JH/7/7.1/7.1.12/JH71c001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        [
+            {
+                "title": "<font size=2><span onClick='ClickLink(\"%BF%EF%BD%D2%AE%C9%A4H%BC%C6%B2%CE%ADp\",\"JH%2F7%2F7.2%2F7.2.7%2FJH727001.php\")'>選上/剩餘名額/待亂數人數統計</span></font>",
+                "link": "'../COURSE/JH/7/7.2/7.2.7/JH727001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "title": "<font size=2><span onClick='ClickLink(\"%BF%EF%A5%7E%AE%D5%BD%D2%B5%7B\",\"JH%2F7%2F7.4%2F7.4.3%2FJH743001.php\")'>選外校課程</span></font>",
+                "link": "'../COURSE/JH/7/7.4/7.4.3/JH743001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+            }
+        ]
+    ],
+    [
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%B4%BB%B4%C1%A5%BB%AE%D5%AD%D7%A5%7E%AE%D5\",\"JH%2F7%2F7.3%2F7.3.2%2FJH732001.php\")'>暑期本校修外校</span></font>",
+            "link": "'JH/7/7.3/7.3.2/JH732001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%B4%BB%B4%C1%BF%EF%BD%D2\",\"JH%2F7%2F7.3%2F7.3.5%2FJH735001.php\")'>暑期選課</span></font>",
+            "link": "'JH/7/7.3/7.3.5/JH735001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%B6%F1%BCg%B1%D0%BE%C7%B7N%A8%A3%BD%D5%ACd\",\"JH%2FB%2FB.2%2FB.2.3%2FJHB23001.php\")'>填寫教學意見調查<br>Course evaluation</span></font>",
+            "link": "'JH/B/B.2/B.2.3/JHB23001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%BA%EE%A6X%B7N%A8%A3%A5%AD%A7%A1%A4%C0%BC%C6\",\"JH%2FB%2FB.2%2FB.2.J.1%2FJHB2J101.php\")'>綜合意見平均分數</span></font>",
+            "link": "'JH/B/B.2/B.2.J.1/JHB2J101.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%B1%D0%BE%C7%B7N%A8%A3%ABH%BDc\",\"JH%2FB%2FB.1%2FB.1.1%2FJHB11001.php\")'>教學意見信箱<br>Suggestion Box</span></font>",
+            "link": "'JH/B/B.1/B.1.1/JHB11001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%BAa%C5A%BD%D2%B7%7E%BB%B2%BE%C9%A8t%B2%CE\",\"JH%2F9%2F9.1%2F9.1.2%2FJH91201.php\")'>榮譽課業輔導系統</span></font>",
+            "link": "'JH/9/9.1/9.1.2/JH91201.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%BE%C7%A5%CD%B5%FB%B6q%B1%D0%BE%C7%A7U%B2z%B0%DD%A8%F7\",\"JH%2F9%2F9.2%2F9.2.3%2FJH92301.php\")'>學生評量教學助理問卷</span></font>",
+            "link": "'JH/9/9.2/9.2.3/JH92301.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>學生評量統計結果表</font>",
+            "link": "'JH/9/9.2/R/1/JH92R101.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%B6%F1%BCg%B3%C7%A5X%B1%D0%BE%C7%B1%D0%AEv%BD%D5%ACd%B0%DD%A8%F7\",\"JH%2FB%2FB.3%2FB.3.2%2FJHB3201.php\")'>填寫傑出教學教師調查問卷</span></font>",
+            "link": "'JH/B/B.3/B.3.2/JHB3201.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%AD%5E%BBy%AF%E0%A4O%C0%CB%B4%FA%BD%D5%ACd%AA%ED\",\"JH%2FD%2FD.1%2FD.1.1%2FJHD11001.php\")'>英語能力檢測調查表</span></font>",
+            "link": "'JH/D/D.1/D.1.1/JHD11001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2><span onClick='ClickLink(\"%B2%A6%B7%7E%A5%CD%C2%F7%AE%D5%B5%7B%A7%C7%BB%A1%A9%FA\",\"JH%2F2%2F2.3%2Fclearance_procedures.php\")'>畢業生離校程序說明</span></font>",
+            "link": "'JH/2/2.3/clearance_procedures.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>申請流程說明</font>",
+            "link": "'JH/2/2.4/thesis_sys_manual.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>登錄作業</font>",
+            "link": "'JH/2/2.4/2.4.9/JH24901.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>報表</font>",
+            "link": "'JH/2/2.4/2.4.4/JH24401.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2>繳費單列印</font>",
+            "link": "'NRT/RTQ92001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>繳費證明單(PDF型式)</font>",
+            "link": "'NRT/RTQ92310.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>學雜費繳費查詢</font>",
+            "link": "'NRT/RTQ91101.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>學分費繳費查詢</font>",
+            "link": "'NRT/RTQ91201.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>學分收費說明(課務組)</font>",
+            "link": "'JH/4/4.16/JH416001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>代繳授權書列印</font>",
+            "link": "'NRT/RTQ92501.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>代繳授權狀況查詢</font>",
+            "link": "'NRT/RTQ92601.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2>退費款項查詢</font>",
+            "link": "'NRT/RTQ91301.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2>月所得查詢</font>",
+            "link": "'SA/SAQ95100.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>年所得查詢</font>",
+            "link": "'SA/SAQ90100.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2><a href=TX/TXQ91101.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6 target=_blank>扣繳憑單列印</a></font>",
+            "link": "'TX/TXQ91101.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>非居住者扣繳憑單列印</font>",
+            "link": "'TX/TXQ91300.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>扣繳稅額表</font>",
+            "link": "'SA/SAQ92600.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>薪資銀行帳號登錄</font>",
+            "link": "'SA/SAQ91201.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>薪資銀行帳號查詢</font>",
+            "link": "'SA/SAQ93501.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2>付款進度查詢</font>",
+            "link": "'CK/CKQ90800.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>匯款明細查詢</font>",
+            "link": "'CK/CKQ90700.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>支票明細查詢</font>",
+            "link": "'CK/CKQ90400.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>傳票付款銀行帳號查詢</font>",
+            "link": "'CK/CKQ90A01.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        [
+            {
+                "title": "<font size=2>填寫就學貸款申請表</font>",
+                "link": "'LN/1/1.1/LN1110.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+            },
+            {
+                "title": "<font size=2>就學貸款申請表資料修改</font>",
+                "link": "'LN/1/1.2/LN1120.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+            },
+            {
+                "title": "<font size=2>刪除就學貸款申請表資料</font>",
+                "link": "'LN/1/1.3/LN1130.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+            },
+            {
+                "title": "<font size=2>列印補繳費用資料表</font>",
+                "link": "'LN/1/1.4/LN1140.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+            }
+        ],
+        [
+            {
+                "title": "<font size=2>就學貸款查詢</font>",
+                "link": "'LN/2/LN2210.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+            }
+        ]
+    ],
+    [
+        {
+            "title": "<font size=2>弱勢助學作業申請</font>",
+            "link": "'DRE/DRE/2.1/DRE21000.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>弱勢助學作業查詢</font>",
+            "link": "'DRE/DRE/2.2/DRE22000.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2>學雜費減免申請</font>",
+            "link": "'RD/RD/2.1/RD21000.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>學雜費減免查詢</font>",
+            "link": "'RD/RD/2.2/RD22000.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2>導師聯繫資料</font>",
+            "link": "'TS/STU/1/1.1/TSSTU1110.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>選課資訊及授課老師聯繫</font>",
+            "link": "'TS/STU/1/1.2/TSSTU1120.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>個人資料修改</font>",
+            "link": "'TS/STU/1/1.3/TSSTU1130.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>查詢本校關懷導師</font>",
+            "link": "'TS/STU/1/1.4/TSSTU1140.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2><b> 使用問題反應與建議</b></font>",
+            "link": "'../UPDATE/TS/MEO/1.2/TSMEO12000.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2 color=red>導師問卷</font>",
+            "link": "'TS/STU/2/2.1/TSSTU2100_R.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2>外宿生資料查詢維護</font>",
+            "link": "'TDM/1/1.1/TDM1110.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2>校務會議</font>",
+            "link": "'OT/SCRT/2/1.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>行政會議</font>",
+            "link": "'OT/SCRT/2/4.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>校務會報會議</font>",
+            "link": "'OT/SCRT/2/8.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>校務發展委員會會議</font>",
+            "link": "'OT/SCRT/2/9.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>校務監督委員會會議</font>",
+            "link": "'OT/SCRT/2/10.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>校務基金管理委員會會議</font>",
+            "link": "'OT/SCRT/2/11.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>校園景觀環境審議委員會會議</font>",
+            "link": "'OT/SCRT/2/12.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>教務會議</font>",
+            "link": "'OT/SCRT/2/13.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>校課程委員會議</font>",
+            "link": "'OT/SCRT/2/14.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>校教評會會議</font>",
+            "link": "'OT/SCRT/2/15.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2>使用說明</font>",
+            "link": "'OT/RAD/1/1.1/RAD11001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>出國申請</font>",
+            "link": "'OT/RAD/1/1.2/RAD12001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>出國報告管理</font>",
+            "link": "'OT/RAD/1/1.3/RAD13001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>出國報告閱覽</font>",
+            "link": "'OT/RAD/1/1.4/RAD14001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2>國外差旅費填報</font>",
+            "link": "'OT/FEE/1/1.1/FEE11001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>國外差旅費查詢(列印、修改)</font>",
+            "link": "'OT/FEE/1/1.2/FEE12001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>出差地日支額查詢</font>",
+            "link": "'OT/FEE/2/2.2/FEE22001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2>緩徵（離校/儘召）申請</font>",
+            "link": "'AR/1.9/ARSTU1900.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>兵役作業辦理情形</font>",
+            "link": "'AR/1.7/ARSTU1700.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2>填寫申請單</font>",
+            "link": "'AWS/PR/1/PR11000.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>待審清單</font>",
+            "link": "'AWS/PR/2/PR21001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>已審清單</font>",
+            "link": "'AWS/PR/3/PR31001.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2>原住民資料申請</font>",
+            "link": "'SAD/ABP/1.1/ABP11000.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>原住民資料查詢</font>",
+            "link": "'SAD/ABP/1.2/ABP12000.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    [
+        {
+            "title": "<font size=2>校園授權軟體下載系統</font>",
+            "link": "'SSO_LINK/dlsw.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+        },
+        {
+            "title": "<font size=2>Office365帳號申請</font>",
+            "link": "'SSO_LINK/oauth_office365.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+        },
+        {
+            "title": "<font size=2>教室借用申請</font>",
+            "link": "'SSO_LINK/spacebooking.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+        },
+        {
+            "title": "<font size=2>活動攝影專案申請</font>",
+            "link": "'SSO_LINK/videorecord.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>網路系統組線上服務</font>",
+            "link": "'netsys.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        },
+        {
+            "title": "<font size=2>師培系統</font>",
+            "link": "'SSO_LINK/tesystem.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+        },
+        {
+            "title": "<font size=2>南大校區有線上網帳號申請</font>",
+            "link": "'SSO_LINK/nandanet.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+        }
+    ],
+    [
+        {
+            "title": "<font size=2>資訊系統入口</font>",
+            "link": "'SSO_LINK/rdentry.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+        }
+    ],
+    [
+        {
+            "title": "<font size=2>個人健康管理</font>",
+            "link": "'SSO_LINK/health.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+        },
+        {
+            "title": "<font size=2>問卷填寫及活動報名</font>",
+            "link": "'SSO_LINK/healthq.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+        }
+    ],
+    [
+        {
+            "title": "<font size=2>駐警隊車輛辦證系統</font>",
+            "link": "'SSO_LINK/park.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+        },
+        {
+            "title": "<font size=2>採購組請購系統</font>",
+            "link": "'SSO_LINK/purchase.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+        },
+        {
+            "title": "<font size=2>校園電子票證掛失/補發/密碼變更系統</font>",
+            "link": "'SSO_LINK/card.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+        },
+        {
+            "title": "<font size=2>門禁管理系統</font>",
+            "link": "'SSO_LINK/accessctl.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+        },
+        {
+            "title": "<font size=2>體育室運動場館票卷系統</font>",
+            "link": "'SSO_LINK/physics.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+        },
+        {
+            "title": "<font size=2>清華會館短期住宿線上訂房系統</font>",
+            "link": "'SSO_LINK/booking.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+        },
+        {
+            "title": "<font size=2>清齋十樓會館線上訂房</font>",
+            "link": "'SSO_LINK/booking10f.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+        },
+        {
+            "title": "<font size=2>諮商輔導預約申請</font>",
+            "link": "'SSO_LINK/counsel.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+        },
+        {
+            "title": "<font size=2>清大社團管理系統</font>",
+            "link": "'SSO_LINK/nthuclub.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+        },
+        {
+            "title": "<font size=\"2\">TSE合約書、計畫書及教育部核定函</font>",
+            "link": "'OT/TSE/POLL10042.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+        }
+    ],
+    {
+        "title": "<font size=2>職涯諮詢與評測</font>",
+        "link": "'../UPDATE/UC/InqStud/UCSTD1100.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=\"main\""
+    },
+    {
+        "title": "<font size=2>線上投票系統</font>",
+        "link": "'SSO_LINK/nhvote.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+    },
+    {
+        "title": "<font size=2>線上投票系統(特殊投票)</font>",
+        "link": "'SSO_LINK/newnhvote.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+    },
+    {
+        "title": "<font size=2>校園通報網</font>",
+        "link": "'SSO_LINK/campusnotice.php?ACIXSTORE=a09vhpjho6hgslrkrhb1qaene6' target=_blank"
+    }
+]
