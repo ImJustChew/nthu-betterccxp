@@ -1,3 +1,6 @@
-import { get, writable } from 'svelte/store';
+import { writable } from 'svelte/store';
 
-export const tokenStore = writable<string | null>(null);
+export const session = writable<{
+    token: string;
+    studentid: string;
+} | null>(null);

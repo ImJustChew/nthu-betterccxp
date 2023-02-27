@@ -1,7 +1,8 @@
 <script lang="ts">
     import Textfield from '@smui/textfield';
     import Button from '@smui/button';
-	import { tokenStore } from "../stores/session";
+	import { session } from "../stores/session";
+	import { goto } from '$app/navigation';
     let studentid = "";
     let password = "";
     let loading = false;
@@ -18,12 +19,18 @@
                 password,
             }),
         })
-        .then((res) => res.json())
+        .then((res) => {
+            if(!res.ok) throw new Error(res.statusText);
+            return res.json()
+        })
         .then((data) => {
             console.log(data);
-            tokenStore.update((u) => u = data.ACIXSTORE);
-            // window.location.href = "/user";
-            window.location.href = (`https://www.ccxp.nthu.edu.tw/ccxp/INQUIRE/select_entry.php?ACIXSTORE=${data.ACIXSTORE}&hint=${studentid}`);
+            $session = {
+                token: data.ACIXSTORE,
+                studentid: studentid
+            };
+            goto("/main")
+            // window.location.href = (`https://www.ccxp.nthu.edu.tw/ccxp/INQUIRE/select_entry.php?ACIXSTORE=${data.ACIXSTORE}&hint=${studentid}`);
             loading = false;
         })
         .catch((err) => {
